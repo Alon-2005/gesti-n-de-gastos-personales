@@ -72,6 +72,7 @@ th {
   background-color: #f2f2f2;
 }
 
+
 /* Estilos generales para tablas */
 table {
   width: 100%;
@@ -127,3 +128,8 @@ table td:nth-child(2) {
 table td:nth-child(3) {
   width: 25%; /* Ancho ajustado para la cantidad */
 }
+
+
+
+
+ 
